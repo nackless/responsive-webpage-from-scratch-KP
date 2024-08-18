@@ -4,3 +4,7 @@ Syncing it to github repo - responsive-webpage-from-scratch-KP
 
 Video series link: Video1. https://www.youtube.com/watch?v=h3bTwCqX4ns&list=PL4-IK0AVhVjNDRHoXGort7sDWcna8cGPA&index=1
 
+Fontend project link: https://www.frontendmentor.io/challenges/manage-landing-page-SLXqC6P5
+
+
+Uses Andy bells CSS reset first
